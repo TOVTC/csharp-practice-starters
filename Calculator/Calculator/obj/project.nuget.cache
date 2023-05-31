@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "iNfRQofPSKxAxAPvZroPBANtua+Z+u2xO1lHT5DA8pMe9dfGRhggfDw5pel34tISm9bFK2phQNQEmUG/2Os+NA==",
+  "dgSpecHash": "dNJtS5PAIPC139Klw5bPwQP8Tp4Rg6zmTyBOOtM+Fa7wS19asIC3SzH6ttKJi7AfsvnxJeyp0pOqxOo6Z5TY8w==",
   "success": true,
   "projectFilePath": "C:\\Users\\To_V1\\projects\\practice-apps\\csharp-practice-starters\\Calculator\\Calculator\\Calculator.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\To_V1\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
