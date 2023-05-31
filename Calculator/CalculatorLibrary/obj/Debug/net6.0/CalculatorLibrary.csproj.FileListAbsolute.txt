@@ -1,0 +1,12 @@
+C:\Users\To_V1\projects\practice-apps\csharp-practice-starters\Calculator\CalculatorLibrary\bin\Debug\net6.0\CalculatorLibrary.deps.json
+C:\Users\To_V1\projects\practice-apps\csharp-practice-starters\Calculator\CalculatorLibrary\bin\Debug\net6.0\CalculatorLibrary.dll
+C:\Users\To_V1\projects\practice-apps\csharp-practice-starters\Calculator\CalculatorLibrary\bin\Debug\net6.0\CalculatorLibrary.pdb
+C:\Users\To_V1\projects\practice-apps\csharp-practice-starters\Calculator\CalculatorLibrary\obj\Debug\net6.0\CalculatorLibrary.csproj.AssemblyReference.cache
+C:\Users\To_V1\projects\practice-apps\csharp-practice-starters\Calculator\CalculatorLibrary\obj\Debug\net6.0\CalculatorLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\To_V1\projects\practice-apps\csharp-practice-starters\Calculator\CalculatorLibrary\obj\Debug\net6.0\CalculatorLibrary.AssemblyInfoInputs.cache
+C:\Users\To_V1\projects\practice-apps\csharp-practice-starters\Calculator\CalculatorLibrary\obj\Debug\net6.0\CalculatorLibrary.AssemblyInfo.cs
+C:\Users\To_V1\projects\practice-apps\csharp-practice-starters\Calculator\CalculatorLibrary\obj\Debug\net6.0\CalculatorLibrary.csproj.CoreCompileInputs.cache
+C:\Users\To_V1\projects\practice-apps\csharp-practice-starters\Calculator\CalculatorLibrary\obj\Debug\net6.0\CalculatorLibrary.dll
+C:\Users\To_V1\projects\practice-apps\csharp-practice-starters\Calculator\CalculatorLibrary\obj\Debug\net6.0\refint\CalculatorLibrary.dll
+C:\Users\To_V1\projects\practice-apps\csharp-practice-starters\Calculator\CalculatorLibrary\obj\Debug\net6.0\CalculatorLibrary.pdb
+C:\Users\To_V1\projects\practice-apps\csharp-practice-starters\Calculator\CalculatorLibrary\obj\Debug\net6.0\ref\CalculatorLibrary.dll

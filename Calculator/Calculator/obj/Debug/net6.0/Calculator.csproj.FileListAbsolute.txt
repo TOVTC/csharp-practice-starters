@@ -13,3 +13,6 @@ C:\Users\To_V1\projects\practice-apps\csharp-practice-starters\Calculator\Calcul
 C:\Users\To_V1\projects\practice-apps\csharp-practice-starters\Calculator\Calculator\obj\Debug\net6.0\Calculator.pdb
 C:\Users\To_V1\projects\practice-apps\csharp-practice-starters\Calculator\Calculator\obj\Debug\net6.0\Calculator.genruntimeconfig.cache
 C:\Users\To_V1\projects\practice-apps\csharp-practice-starters\Calculator\Calculator\obj\Debug\net6.0\ref\Calculator.dll
+C:\Users\To_V1\projects\practice-apps\csharp-practice-starters\Calculator\Calculator\bin\Debug\net6.0\CalculatorLibrary.dll
+C:\Users\To_V1\projects\practice-apps\csharp-practice-starters\Calculator\Calculator\bin\Debug\net6.0\CalculatorLibrary.pdb
+C:\Users\To_V1\projects\practice-apps\csharp-practice-starters\Calculator\Calculator\obj\Debug\net6.0\Calculator.csproj.CopyComplete
