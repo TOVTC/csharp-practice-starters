@@ -4,16 +4,16 @@
     {
         static void Main(string[] args)
         {
-            int num1 = 0;
-            int num2 = 0;
+            double num1 = 0;
+            double num2 = 0;
 
             Console.WriteLine("Console Calculator in C#\r");
             Console.WriteLine("------------------------\n");
 
             Console.WriteLine("Type your first number, then press Enter");
-            num1 = Convert.ToInt32(Console.ReadLine());
+            num1 = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("Type your second number, then press Enter");
-            num2 = Convert.ToInt32(Console.ReadLine());
+            num2 = Convert.ToDouble(Console.ReadLine());
 
             Console.WriteLine("Choose an option from the following list:");
             Console.WriteLine("\ta - Add");
@@ -34,6 +34,11 @@
                     Console.WriteLine($"Your result: {num1} * {num2} = " + (num1 * num2));
                     break;
                 case "d":
+                    while (num2 == 0)
+                    {
+                        Console.WriteLine("Enter a non-zero divisor: ");
+                        num2 = Convert.ToInt32(Console.ReadLine());
+                    }
                     Console.WriteLine($"Your result: {num1} / {num2} = " + (num1 / num2));
                     break;
             }
