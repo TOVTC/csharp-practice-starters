@@ -1,4 +1,6 @@
-﻿namespace Calculator
+﻿using CalculatorLibrary;
+
+namespace CalculatorProgram
 {
     internal class Program
     {
