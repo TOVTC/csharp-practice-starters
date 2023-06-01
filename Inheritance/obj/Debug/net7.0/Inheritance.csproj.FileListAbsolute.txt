@@ -1,0 +1,5 @@
+C:\Users\To_V1\projects\practice-apps\csharp-practice-starters\Inheritance\obj\Debug\net7.0\Inheritance.csproj.AssemblyReference.cache
+C:\Users\To_V1\projects\practice-apps\csharp-practice-starters\Inheritance\obj\Debug\net7.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\To_V1\projects\practice-apps\csharp-practice-starters\Inheritance\obj\Debug\net7.0\Inheritance.AssemblyInfoInputs.cache
+C:\Users\To_V1\projects\practice-apps\csharp-practice-starters\Inheritance\obj\Debug\net7.0\Inheritance.AssemblyInfo.cs
+C:\Users\To_V1\projects\practice-apps\csharp-practice-starters\Inheritance\obj\Debug\net7.0\Inheritance.csproj.CoreCompileInputs.cache
