@@ -1,5 +1,9 @@
 ﻿namespace Inheritance;
 
+// Instead, the base class is an abstract class that declares abstract methods; it serves as a template that defines the members that each derived class must implement.
+// Typically in an abstract base class, the implementation of each derived type is unique to that type.
+// You marked the class with the abstract keyword because it made no sense to instantiate a Publication object, although the class did provide implementations of functionality common to publications.
+
 public abstract class Publication
 {
 	private bool _published = false;
