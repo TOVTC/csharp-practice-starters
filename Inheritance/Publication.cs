@@ -61,5 +61,7 @@ public abstract class Publication
 		CopyrightDate = copyrightDate;
 	}
 
-	public override string ToString() => Title;
+    // If a type does not override the Object.ToString method, it returns the fully qualified name of the type, which is of little use in differentiating one instance from another.
+	// The Publication class overrides Object.ToString to return the value of the Title property.
+    public override string ToString() => Title;
 }
