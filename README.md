@@ -4,6 +4,9 @@ Beginner level C# practice projects following various tutorials<br/>
 [Calculator](https://learn.microsoft.com/en-us/visualstudio/get-started/csharp/tutorial-console?view=vs-2022)<br/>
 [Banking App (Classes)](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/tutorials/classes)<br/>
 [Articles and Publications (Inheritance)](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/tutorials/inheritance)<br/>
+[Reference Only - Is/As Converting Types and Pattern Matching](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/tutorials/safely-cast-using-pattern-matching-is-and-as-operators)
+[Reference Only - Try/Catch Exceptions](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/exceptions/how-to-handle-an-exception-using-try-catch)
+[Reference Only - Try/Catch/Finally](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/exceptions/how-to-execute-cleanup-code-using-finally)
 
 C# is an object-oriented programming language. The four basic principles of object-oriented programming are: <br/>
 *   Abstraction Modeling the relevant attributes and interactions of entities as classes to define an abstract representation of a system.
