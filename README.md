@@ -5,7 +5,7 @@ Beginner level C# practice projects following various tutorials<br/>
 [Banking App (Classes)](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/tutorials/classes)<br/>
 [Articles and Publications (Inheritance)](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/tutorials/inheritance)<br/>
 [Reference Only - Is/As Converting Types and Pattern Matching](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/tutorials/safely-cast-using-pattern-matching-is-and-as-operators)<br/>
-[Algorithms and Pattern Matching](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/tutorials/pattern-matching)<br/>
+[Algorithms and Pattern Matching - NOT FINISHED](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/tutorials/pattern-matching)<br/>
 [Reference Only - Try/Catch Exceptions](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/exceptions/how-to-handle-an-exception-using-try-catch)<br/>
 [Reference Only - Try/Catch/Finally](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/exceptions/how-to-execute-cleanup-code-using-finally)
 
